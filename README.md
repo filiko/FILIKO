@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filiko&layout=compact)](https://github.com/filiko/filiko)
+
+
 
