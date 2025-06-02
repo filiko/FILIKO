@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aufstin Filiko
+# 👋 Howdy! Yes, there's an 'F' 
 
 **Full Stack & Blockchain Developer | Web3 Engineer | Automation Engineer**  
 Building scalable solutions with Python, C++, JavaScript/TypeScript, Rust, and blockchain technologies.
