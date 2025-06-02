@@ -8,7 +8,7 @@ Building scalable solutions with Python, C++, JavaScript/TypeScript, Rust, and b
 ## 🔭 Current Projects
 
 - 🖼️ **SafeWay Driving** — Back-end image processing for production student driving log system (Python + C++)
-- 🎮 **Level GG** — Full-stack engineer for gaming platform (Public release in July!)
+- 🎮 **Level GG** — Full-stack engineer for e-sports tournament platform (Public release in July!)
 
 ---
 
