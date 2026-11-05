@@ -1,53 +1,30 @@
-# 👋 Howdy! Yes, there's an 'F' 😅
+# Aufstin Filiko
 
-**Full Stack & Blockchain Developer | Web3 Engineer | Automation Engineer**  
-Building scalable solutions with Python, C++, JavaScript/TypeScript, and blockchain technologies.
+AI & Automation Lead at Nexus Agriscience. I build the agent systems companies run on: multi-agent engineering frameworks, MCP servers over business systems, browser automation and voice agents. Trained in biotech and computer science, so I keep coming back to AI in biology and biosafety. (Yes, there's an F.)
 
----
+[aufstin.me](https://aufstin.me) · [Resume](https://aufstin.me/resume/) · [Research](https://aufstin.me/research/) · [LinkedIn](https://www.linkedin.com/in/filiko)
 
-## 🔭 Current Projects
+### Now: Nexus Agriscience (since May 2026)
 
-- 🖼️ **SafeWay Driving** — Back-end image processing for production student driving log system (Python + C++)
-- 🎮 **Level GG** — Full-stack engineer for e-sports tournament platform (Public release in July!)
+The AI platform a 35-person, multi-million-dollar company runs on, from manufacturing to marketing and sales.
 
----
+- **Company brain:** one MCP over five business systems and every internal document, so employees and agents share the same knowledge and tools.
+- **Agent coworkers** across production, manufacturing, marketing, sales, accounting and coding.
+- **Multi-agent engineering framework:** coding agents implement platform changes, and independent QA agents verify them against the running application.
+- **Order pipeline** that turns storefront and CRM orders into ERP orders and invoices, replacing two paid integration services ($6K a month).
 
-## 🌱 Currently Exploring
+### Before
 
-- React Native & BLE integration
-- AI/ML for image analysis & NLP
-- Advanced blockchain architectures (L2s, zk proofs, Solana optimizations)
+- **Voski Digital**, Software Engineer, then AI Solutions Architect (Oct 2024 – Apr 2026). Voice agents that grew a financial firm's call capacity from 120 to 1,000+ calls a day; multi-model routing that cut an AI product's response time from 20–30s to 8–15s; a multi-agent harness that builds and maintains websites for about 20 retail clients.
+- **Corteva Agriscience**, R&D Intern, then Automation Engineer Co-op (2023–2024). Robotic laser-cut seals for screening plates, projected to save $450K a year in failed runs.
 
----
+### Public work
 
-## 🛠️ Tech Stack
+- **[RailwayBot](https://github.com/filiko/RailwayBot):** watches Railway deployments, pulls the failure out of the build and deploy logs, and hands it to a coding agent.
+- **[EcoLiko](https://github.com/filiko/EcoLiko):** estimates the energy, water and carbon footprint of AI usage across developer and browser tools.
+- **[Breadcrumbs](https://github.com/MangosteenMadness/Breadcrumbs):** memory for an AI scientist, built with a team at the Rewiring Biology Hackathon by Owkin (San Francisco, July 2026).
+- **[testSieveSorter](https://github.com/filiko/testSieveSorter):** hackathon work on BioKEA's BugSorter: sieve and gate CAD, and a MuJoCo sorter simulation.
 
-**Languages:** Python, C++, JavaScript/TypeScript, Rust, Solidity  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** FastAPI, Flask, Node.js  
-**Blockchain:** Ethereum, Solana, Web3.js, Ethers.js  
-**DevOps:** Docker, Kubernetes, AWS, GitHub Actions  
-**AI/ML:** HuggingFace, TensorFlow, OpenCV  
-**Automation:** Raspberry Pi, SCADA/PLC systems
+Most of my company and client work is private.
 
----
-
-## 💬 About My Work
-
-Most of my professional projects are under NDA, but my focus areas include:
-
-- Full-stack web & mobile app development
-- Blockchain / Web3 systems
-- Image processing & scientific computing
-- Automation & hardware integration
-- AI/ML-driven solutions
-
----
-
-## 📫 How to Reach Me
-
-- Email: filikoaufstin@gmail.com  
-- LinkedIn: linkedin.com/in/filiko
-
----
-
+`Python` · `TypeScript` · `PostgreSQL` · `Claude Code` · `Codex` · `MCP` · `CDP browser automation` · `AWS` · `Docker`
