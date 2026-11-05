@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Aufstin Filiko: agent systems, MCP, and a math battle game">
+<rect x="1" y="1" width="1198" height="338" rx="20" fill="#0b0f14" stroke="#243040"/>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#243040"/></pattern><clipPath id="card"><rect x="1" y="1" width="1198" height="338" rx="20"/></clipPath></defs>
+<rect x="640" y="1" width="559" height="338" fill="url(#g)" clip-path="url(#card)" opacity=".9"/>
+<text x="64" y="74" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="3" fill="#8b98a8">AI &amp; AUTOMATION LEAD · SAN FRANCISCO</text>
+<text x="60" y="150" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5" fill="#f0f6fc">Aufstin Filiko</text>
+<g transform="rotate(-4 520 182)"><rect x="440" y="164" width="164" height="34" rx="17" fill="#ff7a59"/><text x="522" y="187" text-anchor="middle" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0b0f14">yes, there&#8217;s an F</text></g>
+<text x="64" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" fill="#b6f36a">&gt;</text>
+<clipPath id="r0"><rect x="96" y="236" width="0" height="40"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.1125;1.0000" values="0;401;401"/></rect></clipPath>
+<g opacity="1"><animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2400;0.2500;1.0000" values="1;1;0;0"/><text x="96" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" fill="#f0f6fc" clip-path="url(#r0)">agents that do the actual work</text><rect x="96" y="243" width="11" height="24" fill="#b6f36a"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.1125;1.0000" values="96;497;497"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5001;1" dur="1s" repeatCount="indefinite"/></rect></g>
+<clipPath id="r1"><rect x="96" y="236" width="0" height="40"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.2500;0.3625;1.0000" values="0;0;454;454"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2480;0.2500;0.4900;0.5000;1.0000" values="0;0;1;1;0;0"/><text x="96" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" fill="#f0f6fc" clip-path="url(#r1)">one MCP over every business system</text><rect x="96" y="243" width="11" height="24" fill="#b6f36a"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.2500;0.3625;1.0000" values="96;96;550;550"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5001;1" dur="1s" repeatCount="indefinite"/></rect></g>
+<clipPath id="r2"><rect x="96" y="236" width="0" height="40"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.5000;0.6125;1.0000" values="0;0;520;520"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4980;0.5000;0.7400;0.7500;1.0000" values="0;0;1;1;0;0"/><text x="96" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" fill="#f0f6fc" clip-path="url(#r2)">coworkers in sales, accounting &amp; coding</text><rect x="96" y="243" width="11" height="24" fill="#b6f36a"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.5000;0.6125;1.0000" values="96;96;616;616"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5001;1" dur="1s" repeatCount="indefinite"/></rect></g>
+<clipPath id="r3"><rect x="96" y="236" width="0" height="40"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.8625;1.0000" values="0;0;375;375"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.7480;0.7500;0.9900;0.9980;1.0000" values="0;0;1;1;0;0"/><text x="96" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="22" fill="#f0f6fc" clip-path="url(#r3)">math battles at calcul8r.app</text><rect x="96" y="243" width="11" height="24" fill="#b6f36a"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" keyTimes="0.0000;0.7500;0.8625;1.0000" values="96;96;471;471"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5001;1" dur="1s" repeatCount="indefinite"/></rect></g>
+<path id="e0" d="M905,170 L905.0,54.4" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#b6f36a"><animateMotion dur="2.8s" begin="0.00s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e0"/></animateMotion></circle>
+<circle r="4.5" fill="#b6f36a"><animateMotion dur="2.8s" begin="1.40s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e0"/></animateMotion></circle>
+<path id="e1" d="M905,170 L1063.4,112.2" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#7cc4ff"><animateMotion dur="2.8s" begin="0.37s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e1"/></animateMotion></circle>
+<circle r="4.5" fill="#7cc4ff"><animateMotion dur="2.8s" begin="1.77s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e1"/></animateMotion></circle>
+<path id="e2" d="M905,170 L1063.4,227.8" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#ff7a59"><animateMotion dur="2.8s" begin="0.74s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e2"/></animateMotion></circle>
+<circle r="4.5" fill="#ff7a59"><animateMotion dur="2.8s" begin="2.14s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e2"/></animateMotion></circle>
+<path id="e3" d="M905,170 L905.0,285.6" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#b6f36a"><animateMotion dur="2.8s" begin="1.11s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e3"/></animateMotion></circle>
+<circle r="4.5" fill="#b6f36a"><animateMotion dur="2.8s" begin="2.51s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e3"/></animateMotion></circle>
+<path id="e4" d="M905,170 L746.6,227.8" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#7cc4ff"><animateMotion dur="2.8s" begin="1.48s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e4"/></animateMotion></circle>
+<circle r="4.5" fill="#7cc4ff"><animateMotion dur="2.8s" begin="2.88s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e4"/></animateMotion></circle>
+<path id="e5" d="M905,170 L746.6,112.2" stroke="#243040" stroke-width="2" fill="none"/>
+<circle r="4.5" fill="#ff7a59"><animateMotion dur="2.8s" begin="1.85s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"><mpath href="#e5"/></animateMotion></circle>
+<circle r="4.5" fill="#ff7a59"><animateMotion dur="2.8s" begin="3.25s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e5"/></animateMotion></circle>
+<rect x="869.0" y="38.4" width="72.0" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="905.0" y="59.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">sales</text>
+<rect x="1004.4" y="96.2" width="118.0" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="1063.4" y="117.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">accounting</text>
+<rect x="990.6" y="211.8" width="145.6" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="1063.4" y="232.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">manufacturing</text>
+<rect x="864.4" y="269.6" width="81.2" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="905.0" y="290.6" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">coding</text>
+<rect x="692.2" y="211.8" width="108.8" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="746.6" y="232.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">marketing</text>
+<rect x="724.4" y="96.2" width="44.4" height="32" rx="16" fill="#16202c" stroke="#243040" stroke-width="1.5"/>
+<text x="746.6" y="117.2" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#d7e2ee">QA</text>
+<circle cx="905" cy="170" r="34" fill="none" stroke="#b6f36a" stroke-width="2"><animate attributeName="r" values="34;56" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="905" cy="170" r="34" fill="#b6f36a"/>
+<text x="905" y="176" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#0b0f14">MCP</text>
+<text x="72" y="297" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8b98a8">BATTERY</text>
+<rect x="154" y="284" width="120" height="16" rx="5" fill="none" stroke="#8b98a8" stroke-width="1.5"/>
+<rect x="275" y="289" width="4" height="6" rx="1" fill="#8b98a8"/>
+<rect x="157" y="287" width="114" height="10" rx="3" fill="#b6f36a"><animate attributeName="width" values="114;20;20;114;114" keyTimes="0;.62;.66;.72;1" dur="7s" repeatCount="indefinite"/><animate attributeName="fill" values="#b6f36a;#ff7a59;#ff7a59;#b6f36a;#b6f36a" keyTimes="0;.6;.66;.72;1" dur="7s" repeatCount="indefinite"/></rect>
+<text x="292" y="297" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#8b98a8">first battery to 0% loses · calcul8r.app</text>
+</svg>
