@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aufstin Filiko: AI and Automation Lead. Agent systems, MCP, and a math battle game." src="assets/banner-light.svg" width="100%">
+  <img alt="Aufstin Filiko: AI and Automation Lead. Harness engineering, TabHue, and a math battle game." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -11,22 +11,29 @@
   <a href="https://calcul8r.app/demo"><b>play calcul8r 🔋</b></a>
 </p>
 
-I build agent systems that companies actually run on, and a math game where your calculator's battery is always dying. Biotech and CS by training, so AI in biology keeps pulling me back.
+I build harnesses for coding agents, agent systems that companies actually run on, and a math game where your calculator's battery is always dying. Biotech and CS by training, so AI in biology keeps pulling me back.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🧠 &nbsp;Day job
 
-**AI & Automation Lead, Nexus Agriscience.** The AI platform a 35-person company runs on: one MCP brain over five business systems, and agent coworkers across production, manufacturing, marketing, sales, accounting and coding.
+**AI & Automation Lead, Nexus Agriscience.** One MCP brain over five business systems, agent coworkers across the company, and a multi-agent framework where QA agents check every change.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+#### 🪢 &nbsp;Harness
+
+**TabHue**, my own harness. One right-click opens a project's Claude Code, Codex and OpenCode in color-coded tabs. It runs agents headless and tracks live sessions, and it's growing into a meta harness: work → executor → result.
+
+</td>
+<td width="33%" valign="top">
 
 #### 🔋 &nbsp;Side quest
 
-**[Calcul8r](https://calcul8r.app/demo)**, a 1v1 math battle in the browser. Both batteries drain every second. Solve to stall yours and build power, then **JAM** the other calculator's keys. First to 0% loses.
+**[Calcul8r](https://calcul8r.app/demo)**, a 1v1 math battle in the browser. Both batteries drain every second. Solve to stall yours and build power, then **JAM** the other calculator's keys.
 
 </td>
 </tr>
@@ -45,7 +52,12 @@ I build agent systems that companies actually run on, and a math game where your
 
 ### 🔋 Calcul8r &nbsp;<sub><a href="https://calcul8r.app/demo">play it, no account needed →</a></sub>
 
-<a href="https://calcul8r.app/demo"><img src="assets/calcul8r-match.jpg" alt="A Calcul8r match: two calculators side by side with draining batteries, both solving 4 − 269" width="100%"></a>
+<a href="https://calcul8r.app/demo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/calcul8r-dark.svg">
+  <img alt="Calcul8r: two calculators in a math battle. Batteries drain, right answers build power, and five power fires JAM, locking keys on the other calculator." src="assets/calcul8r-light.svg" width="100%">
+</picture>
+</a>
 
 Fill in the blank faster than the other calculator. Every correct answer pauses your drain and charges a unit of power; five power arms **JAM**, which locks random keys on your opponent's calculator until they solve six more. Play the CPU on Easy, Medium or Hard, or open a room for a friend. Pre-pre-alpha, and very much in progress.
 
