@@ -39,17 +39,6 @@ I build harnesses for coding agents, agent systems that companies actually run o
 </tr>
 </table>
 
-### Receipts
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top"><h3>120 → 1,000+</h3>calls a day, handled by voice agents for a financial firm</td>
-<td width="25%" align="center" valign="top"><h3>20–30s → 8–15s</h3>AI response time, with multi-model routing</td>
-<td width="25%" align="center" valign="top"><h3>$6K / mo</h3>of paid integrations replaced by an agent order pipeline</td>
-<td width="25%" align="center" valign="top"><h3>~54,000 → ~300</h3>legacy lineage records narrowed to links researchers can check</td>
-</tr>
-</table>
-
 ### 🔋 Calcul8r &nbsp;<sub><a href="https://calcul8r.app/demo">play it, no account needed →</a></sub>
 
 <a href="https://calcul8r.app/demo">
